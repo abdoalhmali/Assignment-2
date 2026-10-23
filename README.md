@@ -1,5 +1,8 @@
 # Assignment-2
-EX for test 
+
+## How to run
+This is an example of how you will see the input prompt in the terminal and how to enter the inputs
+
 Algorithm (BFS, DFS, IDT, UCS or ALL): ALL       
 Input file name (example input1.txt): ..\input1.txt
 Origin city: Bremen       
